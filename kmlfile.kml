@@ -11,6 +11,8 @@
 	</Style>
 	<Placemark id= "VH">
 		<name>Nhà Sách Vạn Hoa</name>
+		<description><![CDATA[<img style="max-width:250px;" src="https://v-hius.github.io/assets/img/storeFont/QuanCo.png">
+		68 Đức Thắng, Đông Ngạc, Hà Nội]]></description>
 		<styleUrl>#sn_B</styleUrl>
 		<Point>
 			<coordinates>105.7795469963816,21.06469532814808,0</coordinates>
@@ -41,7 +43,7 @@
 		<name>Nhà Sách Pinocchio</name>
 		<styleUrl>#sn_B</styleUrl>
 		<Point>
-			<coordinates>105.775355,21.0499324,0</coordinates>
+			<coordinates>105.775355,21.062195,0</coordinates>
 		</Point>
 	</Placemark>
 </Document>
