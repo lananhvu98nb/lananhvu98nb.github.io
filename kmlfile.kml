@@ -37,5 +37,12 @@
 			<coordinates>105.7659181893011,21.04344323249603,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark id = "PC">
+		<name>Nhà Sách Pinocchio</name>
+		<styleUrl>#sn_B</styleUrl>
+		<Point>
+			<coordinates>21.062195,21.062195,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
